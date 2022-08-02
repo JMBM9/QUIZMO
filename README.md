@@ -1,1 +1,1 @@
-# QUIZMO
+# Quizmo
